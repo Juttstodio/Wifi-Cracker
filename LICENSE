@@ -1,20 +1,46 @@
-Jutt Studio Attribution License (JSAL) 1.0
+# Jutt Cyber Tech Licence (Strict Copyright)
 
-Copyright (c) 2025, Jutt Studio (js434@proton.me)
+Project: WiFi Cracker  
+Copyright 2025 Jutt Cyber Tech  
+All rights reserved.
 
-This project is licensed under the Jutt Studio Attribution License (JSAL) 1.0.
+---
 
-This project is open for use, copying, modification, and redistribution, subject to the following conditions:
+## 1. Permitted Use
+- This software may be used only for ethical, educational, research, and cybersecurity training.
+- You may use this tool **only on your own networks** or networks where you have clear, written permission.
+- Personal and commercial use is allowed **only within legal and ethical limits**.
 
-1.  **Attribution**: The attribution "Original work by Jutt Studio" must be preserved and visibly displayed in all of the following:
-    *   Distributed copies of the source code.
-    *   Derivative works based on this project.
-    *   All documentation associated with the project or its derivatives.
-    *   The user interface of any product that incorporates this work, if applicable (e.g., in an "About" or "Credits" section).
-    If you copy or modify this software, you must not remove or obscure the original developer attribution.
+## 2. Prohibited Use
+- You may NOT modify this code.
+- You may NOT redistribute, resell, share, upload, or publish this code on any platform, including GitHub.
+- You may NOT create modified versions, forks, or derivative works.
+- You may NOT use this tool on networks you do not own or control.  
+  Unauthorized access is illegal and strictly prohibited.
 
-2.  **No Warranty**: THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+## 3. Ethical Notice
+- This tool is created purely for **ethical, educational, and aesthetic cybersecurity purposes**.
+- It is not intended for hacking, damaging networks, or performing illegal activities.
+- Any misuse of this software is strictly against this licence.
 
-3.  **Liability**: The developer, Jutt Studio, assumes no liability and is not responsible for any misuse or damage caused by this program. The use of this software is at your own risk.
+## 4. Responsibility & Liability
+- This software is provided “as-is” with no warranties of any kind.
+- Jutt Cyber Tech is **NOT responsible** for:
+  - misuse of this software  
+  - any legal consequences  
+  - any damage caused  
+  - any actions taken by users  
+- Jutt Cyber Tech **will not and cannot answer to law enforcement agencies** for user misuse.  
+  All responsibility belongs to the user.
 
-By using, copying, modifying, or redistributing this software, you agree to be bound by the terms of this license.
+## 5. Copyright Notice
+- You must keep this licence and copyright notice in every copy.
+- You may not remove or alter any part of this notice.
+
+## 6. Full Terms
+- By using this software, you agree to follow every rule stated in this licence.
+- If you do not agree, do not use this software.
+
+---
+
+END OF LICENCE
