@@ -1,20 +1,22 @@
 """
-Wifi Cracker - A tool for Wi-Fi security auditing.
+========================================================================
+Program Name: Switch To Tor
+Created by: Jutt Cyber Tech
+Year: 2025
+========================================================================
 
-Developed by Jutt Studio (JS).
+Description:
+This program is created for ethical, educational, and aesthetic purposes.
+All code is the intellectual property of Jutt Cyber Tech.
 
-License: Jutt Studio Attribution License (JSAL) 1.0
-Contact: js434@proton.me
-This project is open for use, copying, modification, and redistribution,
-provided that the attribution "Original work by Jutt Studio" is preserved in all
-distributed copies and derivative works. See LICENSE file for details.
+Usage:
+- Personal and commercial use allowed.
+- Modification, redistribution, resale, or sharing is strictly prohibited.
+- For full licence and usage rules, see the LICENSE file.
 
-Disclaimer:
-This tool is intended for educational purposes and for testing network security
-on systems you own or have explicit permission to test. Unauthorized scanning
-or attacks on networks are illegal. The developer assumes no liability and is
-not responsible for any misuse or damage caused by this program.
+========================================================================
 """
+
 import subprocess
 import os
 import re
@@ -731,3 +733,4 @@ if __name__ == "__main__":
     else:
         app = WifiCracker()
         app.run()
+
